@@ -1,3 +1,5 @@
+'use strict'
+
 const types = {
 	black: 'foregroundColorOpen',
 	red: 'foregroundColorOpen',

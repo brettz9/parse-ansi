@@ -1,3 +1,5 @@
+'use strict'
+
 const arrayUniq = require('array-uniq')
 const ansiRegex = require('ansi-regex')
 const superSplit = require('super-split')

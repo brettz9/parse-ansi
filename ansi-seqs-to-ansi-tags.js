@@ -1,3 +1,5 @@
+'use strict'
+
 module.exports = {
 	'\u001B[30m': 'black',
 	'\u001B[31m': 'red',
